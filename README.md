@@ -44,18 +44,16 @@ i create specialized ai agent skills for product discovery, team facilitation, a
 
 —
 
-### 📦 featured projects
+### 📦 pinned projects
 
 | project | description |
 |---------|-------------|
-| ⭐ [comparative-ai-tools-for-building-web-apps](https://github.com/renatocaliari/comparative-ai-tools-for-building-web-apps) | hands-on comparison of ai coding tools |
-| 🧠 [JTBD-Mapper-AI-Agent](https://github.com/renatocaliari/JTBD-Mapper-AI-Agent) | ai-powered jobs-to-be-done mapper (open source) |
-| 🤖 [ai-engineer](https://github.com/renatocaliari/ai-engineer) | interactive cli that leverages llms for development |
-| 📋 [checkapi](https://github.com/renatocaliari/checkapi) | mini-framework for dynamic api test scenarios |
-| 📑 [logseq-plugin-quick-references](https://github.com/renatocaliari/logseq-plugin-quick-references) | quick references panel for logseq |
-| 🔧 [pi-tool-repair-layer](https://github.com/renatocaliari/pi-tool-repair-layer) | pi extension that fixes common llm tool call errors |
-| 📚 [awesome-jtbd](https://github.com/renatocaliari/awesome-jtbd) | curated resources on jobs-to-be-done |
-| 🏛️ [contornos](https://github.com/renatocaliari/contornos) | social technology for decentralized organizations |
+| 🔧 [pi-tool-repair-layer](https://github.com/renatocaliari/pi-tool-repair-layer) | pi extension that fixes llm tool call errors |
+| 🤖 [cali-product-workflow](https://github.com/renatocaliari/cali-product-workflow) | structured product planning workflow for ai agents |
+| ⚡ [starhtml-skill](https://github.com/renatocaliari/starhtml-skill) | ai agent skill + static analyzer for starhtml |
+| 🐍 [htpy-lsp](https://github.com/renatocaliari/htpy-lsp) | lsp server for validating htpy coding |
+| 🔄 [agent-sync](https://github.com/renatocaliari/agent-sync) | agent configuration sync ecosystem |
+| 🌐 [agent-sync-public](https://github.com/renatocaliari/agent-sync-public) | public-facing agent sync & skill distribution |
 
 —
 
@@ -85,7 +83,7 @@ other places:
 ### 📊 github activity
 
 ```
-repos:   73 public repositories
+repos:   74 public repositories
 created: 2012
 focus:   product strategy · ai agents · jtbd · organizational design
 ```
