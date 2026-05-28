@@ -77,6 +77,7 @@ i create specialized ai agent skills for product discovery, team facilitation, a
 | `cali-deploy-github-tailscale` | 🚀 ops | deploy to private servers via tailscale |
 | `cali-docker-server-dashboard` | 🚀 ops | server discovery & real-time docker dashboard |
 | `cali-github-releases` | 🚀 ops | github release automation |
+| `cali-go-stack` | 💻 coding | go web app conventions — datastar, templ, chi, sqlite |
 | `cali-go-standards` | 💻 coding | go project conventions and best practices |
 | `cali-post-execution-check` | ✅ workflow | post-implementation verification & gap analysis |
 | `cali-questions-quality` | 🎙️ research | evaluate interview scripts & qualitative research |
