@@ -80,18 +80,11 @@ i create specialized ai agent skills for product discovery, team facilitation, a
 | `skill-creator` | 📝 workflow | create, modify, and evaluate agent skills |
 | [and more](https://github.com/renatocaliari/agent-sync-public) | … | … |
 
-```
-┌─────────────────────────────────────────────┐
-│  pipeline: pi.dev + custom skills           │
-│  → I set the stage upstream — questions,    │
-│    critiques, planning convos, detailed     │
-│    scopes. then the ai runs inside          │
-│    the fences. I still sneak in when        │
-│    something feels off. the result is       │
-│    better than what I could build           │
-│    alone or with a team.                    │
-└─────────────────────────────────────────────┘
-```
+### ⚙️ the pipeline
+
+> **[pi.dev](https://pi.dev/)** + **[custom skills](https://github.com/renatocaliari#featured-cali-product-workflow)**
+>
+> I set the stage upstream — questions, critiques, planning convos, detailed scopes. Then the AI runs inside the fences. I still sneak in when something feels off. The result is better than what I could build alone or with a team.
 
 ---
 
