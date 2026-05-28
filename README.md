@@ -22,7 +22,7 @@
 
 ### what i do
 
-i explore how product teams and organizations can replace rigid frameworks with lighter, more adaptive ways of working. my path — software development, product management, hr leadership, self-management consulting, and education — gave me a front-row seat to the frictions that keep teams from doing their best work. today i support people at every level, from c-level to product and people teams, helping them design their own ways of working rather than selling ready-made models.
+i explore how product teams and organizations can replace rigid frameworks with lighter, more adaptive ways of working. my path — software development, product management, hr leadership, self-management consulting, and education — gave me a front-row seat to the frictions that drain energy and multiply unnecessary complexity. today i support people at every level, from c-level to product and people teams, helping them design their own ways of working rather than selling ready-made models.
 
 my work moves across three fronts:
 
