@@ -16,8 +16,8 @@
 |---|---|
 | 🧪 [what i do](#what-i-do) | ⚡ [ai agent skills](#-ai-agent-skills--54-and-counting) |
 | 🛠️ [what i build with](#️-what-i-build-with-lately) | 📦 [pinned projects](#-pinned-projects) |
-| 🧰 [narrative tools](#-narrative-tools-private) | 📖 [free e-books](#-free-e-books-brazilian-portuguese) |
-| 📝 [writing & thinking](#-writing--thinking) | 🔭 [explorations](#-current-explorations) |
+| 📖 [free e-books](#-free-e-books-brazilian-portuguese) | 📝 [writing & thinking](#-writing--thinking) |
+| 🔭 [explorations](#-current-explorations) | |
 
 ---
 
@@ -42,7 +42,13 @@ developed **contornos** — a social technology for decentralized decisions. des
 ```
 🌀 narrative therapy & AI
 ```
-currently pursuing international certification in narrative therapy (Dulwich Centre, Australia). exploring how AI and narrative practices intersect — creating tools like [Biblioteca de Práticas de Terapia Narrativa](https://terapia-narrativa-biblioteca.vercel.app/) and [Bússola de Paisagens](https://bussola-paisagens.vercel.app).
+currently pursuing international certification in narrative therapy (Dulwich Centre, Australia). exploring how AI and narrative practices intersect:
+
+| tool | description |
+|------|-------------|
+| 🔍 [Biblioteca de Práticas de Terapia Narrativa](https://terapia-narrativa-biblioteca.vercel.app/) | searchable library of narrative therapy resources |
+| 🧭 [Bússola de Paisagens](https://bussola-paisagens.vercel.app/) | interactive compass for exploring identity landscapes |
+| 🗣️ `treinamento-praticas-narrativas` | simulated conversation system with ai supervision for therapist training |
 
 ---
 
@@ -108,16 +114,6 @@ i create specialized ai agent skills for product discovery, team facilitation, a
 | 🔧 [pi-tool-repair-layer](https://github.com/renatocaliari/pi-tool-repair-layer) | pi extension that fixes llm tool call errors |
 | ⚡ [starhtml-skill](https://github.com/renatocaliari/starhtml-skill) | ai agent skill + static analyzer for starhtml |
 | 🌊 [starstream](https://github.com/renatocaliari/starstream) | real-time broadcasting ecosystem for starhtml |
-
----
-
-### 🧰 narrative tools (private)
-
-| project | description |
-|---------|-------------|
-| `treinamento-praticas-narrativas` | simulated conversation system with ai supervision for therapist training |
-| `terapia-narrativa-biblioteca` | searchable library of narrative therapy resources |
-| `bussola-paisagens` | interactive compass for exploring identity landscapes |
 
 ---
 
