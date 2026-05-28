@@ -31,17 +31,73 @@ i create specialized ai agent skills for product discovery, team facilitation, a
 
 #### featured: `cali-product-workflow`
 
-orchestrates **8 skill types** across the full product planning lifecycle:
+orchestrates **21 skills** across the full product planning lifecycle:
 
-`🔍 product-discovery` · `📋 jtbd` · `🏗️ shape-up` · `🎨 interface-brainstorm` · `⚙️ tech-planning` · `🔎 plan-critique` · `🧪 testing-strategy` · `📘 domain-playbooks`
+```
+                   ┌─────────────────────────────────┐
+                   │     product-discovery (5)        │
+                   │  discovery · jtbd · evolutionary │
+                   │  opportunity · market-analysis   │
+                   └────────┬────────────────────────┘
+                            ↓
+                   ┌────────────────┐
+                   │  shape-up (1)  │
+                   └───────┬────────┘
+                           ↓
+            ┌──────────────────────────┐
+            │    plan-critique (1)     │  ← auto pre-flight
+            └────────────┬─────────────┘
+                         ↓
+                  ╔══════════════╗
+                  ║ plannotator  ║  ← visual gate (never skips)
+                  ╚══════════════╝
+                         ↓
+            ┌──────────────────────────┐      ┌───────────────────────────────┐
+            │ interface-brainstorm (1) │ ──→  │ domain playbooks (8)          │
+            │  5 proposals + hybrid    │      │ ads · pricing · promotions    │
+            └────────────┬─────────────┘      │ trust · health · marketplace  │
+                         ↓                    │ business-models · open-source │
+                  ╔══════════════╗             └───────────────┬───────────────┘
+                  ║ plannotator  ║                              │ (tactical ref)
+                  ╚══════════════╝                              │
+                         ↓                                     ↓
+                   ┌────────────┐
+                   │ selection  │
+                   └─────┬──────┘
+                         ↓
+            ┌─────────────────────────┐
+            │    tech-planning (1)    │
+            │  typed scopes + test-*  │
+            └────────────┬────────────┘
+                         ↓
+            ┌─────────────────────────┐
+            │ testing-strategy (2)    │
+            │ ai-code · test-exec     │
+            └────────────┬────────────┘
+                         ↓
+            ┌─────────────────────────┐
+            │  scope-executor (1)     │  ← autonomous execution
+            └────────────┬────────────┘
+                         ↓
+                   audit (auto)
+```
 
-domain playbooks cover **pricing · trust · ads · health · marketplace · open source · promotions · business models**.
+| stage | skills | count |
+|-------|--------|:-----:|
+| 🔍 product discovery | `product-discovery` · `job-to-be-done` · `evolutionary-principles` · `opportunity-mapping` · `multi-method-market-analysis` | 5 |
+| 🏗️ shape up | `product-shape-up` | 1 |
+| 🔎 plan critique | `product-plan-critique` | 1 |
+| 🎨 interface brainstorming | `product-interface-brainstorm` | 1 |
+| ⚙️ tech planning | `product-tech-planning` | 1 |
+| 🧪 testing strategy | `product-testing-ai-code` · `product-testing-execution` | 2 |
+| 🤖 scope execution | `product-scope-executor` | 1 |
+| 📘 domain playbooks | `product-ads` · `product-pricing` · `product-promotions` · `product-trust-building` · `product-health` · `product-marketplace-playbook` · `product-business-models` · `product-open-source` | 8 |
+| | **total** | **21** |
 
 #### other key skills
 
 | skill | domain | description |
 |-------|--------|-------------|
-| `cali-product-job-to-be-done` | 🧠 product | jtbd discovery & contextual segmentation |
 | `cali-go-stack` | 💻 coding | go web apps with datastar, templ, daisyui, nats |
 | `cali-starhtml` | 💻 coding | python-first reactive web apps over datastar |
 | `cali-questions-quality` | 🎙️ research | evaluate interview scripts & qualitative research |
