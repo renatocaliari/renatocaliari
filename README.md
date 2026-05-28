@@ -29,18 +29,37 @@ currently pursuing international certification in narrative therapy (Dulwich Cen
 
 i create specialized ai agent skills for product discovery, team facilitation, and coding workflows. these are prompt-based tools that help agents execute specific tasks with precision.
 
-**highlights:**
-`cali-product-workflow` — complete product planning pipeline (shape up → interface → tech planning → critique)
-`cali-product-job-to-be-done` — jtbd discovery and contextual segmentation
-`cali-go-stack` — go web apps with datastar, templ, daisyui, tailwindcss, nats
-`cali-starhtml` — python-first reactive web apps over datastar
-`cali-questions-quality` — evaluate interview scripts and qualitative research
-`plannotator-visual-explainer` — self-contained html visualizations
-`creating-pi-extensions` — custom slash commands and overlays for pi agent
-[and more.](https://github.com/renatocaliari?tab=repositories&q=skill)
+#### featured: `cali-product-workflow`
 
-**what i build with:** go · templ · datastar · sqlite · python · typescript · clojure
-**pipeline:** [pi agent](https://github.com/renatocaliari/agent-sync-public) + 54 [custom skills](https://github.com/renatocaliari/agent-sync-public) → production-ready code
+orchestrates **8 skill types** across the full product planning lifecycle:
+
+`🔍 product-discovery` · `📋 jtbd` · `🏗️ shape-up` · `🎨 interface-brainstorm` · `⚙️ tech-planning` · `🔎 plan-critique` · `🧪 testing-strategy` · `📘 domain-playbooks`
+
+domain playbooks cover **pricing · trust · ads · health · marketplace · open source · promotions · business models**.
+
+#### other key skills
+
+| skill | domain | description |
+|-------|--------|-------------|
+| `cali-product-job-to-be-done` | 🧠 product | jtbd discovery & contextual segmentation |
+| `cali-go-stack` | 💻 coding | go web apps with datastar, templ, daisyui, nats |
+| `cali-starhtml` | 💻 coding | python-first reactive web apps over datastar |
+| `cali-questions-quality` | 🎙️ research | evaluate interview scripts & qualitative research |
+| `plannotator-visual-explainer` | 📊 workflow | self-contained html visualizations |
+| `creating-pi-extensions` | 🧩 coding | custom slash commands & overlays for pi agent |
+| [and more](https://github.com/renatocaliari?tab=repositories&q=skill) | … | … |
+
+**pipeline:** [pi agent](https://github.com/renatocaliari/agent-sync-public) + custom skills → production-ready code
+
+—
+
+### 🛠️ what i build with lately
+
+```
+🐹 go · ✨ templ · 🔀 chi · ⚡ datastar · 🗄️ sqlite
+```
+
+~ no javascript frameworks, no runtime deps, no huge node_modules — just type-safe go, server-side reactivity via SSE, and a single binary you can deploy anywhere.
 
 —
 
