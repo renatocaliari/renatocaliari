@@ -12,9 +12,9 @@
 
 **📋 explore this garden**
 
-[🧪 what i do](#what-i-do) · [⚡ ai agent skills](#-ai-agent-skills--54-and-counting) · [🛠️ what i build with](#️-what-i-build-with-lately)
-[📦 pinned projects](#-pinned-projects) · [🧰 narrative tools](#-narrative-tools-private) · [📖 free e-books](#-free-e-books-brazilian-portuguese)
-[📝 writing & thinking](#-writing--thinking) · [🔭 explorations](#-current-explorations) · [📊 github activity](#-github-activity)
+🧪 [what i do](#what-i-do) · ⚡ [ai agent skills](#-ai-agent-skills--54-and-counting) · 🛠️ [what i build with](#️-what-i-build-with-lately)
+📦 [pinned projects](#-pinned-projects) · 🧰 [narrative tools](#-narrative-tools-private) · 📖 [free e-books](#-free-e-books-brazilian-portuguese)
+📝 [writing & thinking](#-writing--thinking) · 🔭 [explorations](#-current-explorations) · 📊 [github activity](#-github-activity)
 
 ---
 
