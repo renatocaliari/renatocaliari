@@ -5,16 +5,16 @@
 │  how can we create lighter, more adaptive   │
 │  systems for work — and life?               │
 │                                             │
-│  74 public repos · 0 stars (give or take)   │
+│  74 public repos · 0 stars. your move.      │
 │  digital gardening, not a storefront        │
 └─────────────────────────────────────────────┘
 ```
 
 **📋 explore this garden**
 
-🧪 what i do · ⚡ ai agent skills · 🛠️ what i build with
-📦 pinned projects · 🧰 narrative tools · 📖 free e-books
-📝 writing & thinking · 🔭 explorations · 📊 github activity
+[🧪 what i do](#what-i-do) · [⚡ ai agent skills](#-ai-agent-skills--54-and-counting) · [🛠️ what i build with](#️-what-i-build-with-lately)
+[📦 pinned projects](#-pinned-projects) · [🧰 narrative tools](#-narrative-tools-private) · [📖 free e-books](#-free-e-books-brazilian-portuguese)
+[📝 writing & thinking](#-writing--thinking) · [🔭 explorations](#-current-explorations) · [📊 github activity](#-github-activity)
 
 ---
 
