@@ -81,6 +81,26 @@ i create specialized ai agent skills for product discovery, team facilitation, a
 | 🐍 [htpy-lsp](https://github.com/renatocaliari/htpy-lsp) | lsp server for validating htpy coding |
 | 🔧 [pi-tool-repair-layer](https://github.com/renatocaliari/pi-tool-repair-layer) | pi extension that fixes llm tool call errors |
 | ⚡ [starhtml-skill](https://github.com/renatocaliari/starhtml-skill) | ai agent skill + static analyzer for starhtml |
+| 🌊 [starstream](https://github.com/renatocaliari/starstream) | real-time broadcasting ecosystem for starhtml |
+
+—
+
+### 🧰 narrative tools (private)
+
+| project | description |
+|---------|-------------|
+| `treinamento-praticas-narrativas` | training materials for narrative therapy practice |
+| `terapia-narrativa-biblioteca` | searchable library of narrative therapy resources |
+| `bussola-paisagens` | interactive compass for exploring identity landscapes |
+
+—
+
+### 📖 free e-books (brazilian portuguese)
+
+| title | topic |
+|-------|-------|
+| [📘 guia prático para validar ideias](https://calirenato82.substack.com/p/roteiro-pratico-para-validar-ideias) | 8-step experiment framework — find audiences, define markets, prototype offers, and evolve into viable businesses without building full products first |
+| [📘 estratégia e inovação com jobs to be done](https://calirenato82.substack.com/p/e-book-jobs-to-be-done-em-portugues) | comprehensive jtbd methodology in portuguese — job mapping, market segmentation, outcome-driven innovation adapted for real-world use |
 
 —
 
