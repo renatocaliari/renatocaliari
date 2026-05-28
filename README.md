@@ -31,68 +31,50 @@ i create specialized ai agent skills for product discovery, team facilitation, a
 
 #### featured: `cali-product-workflow`
 
-orchestrates **21 skills** across the full product planning lifecycle:
+orchestrates **21 skills** organized into 3 layers:
+
+| layer | role | skills | count |
+|-------|------|--------|:-----:|
+| 🧠 **product strategies** | upfront exploration | `product-discovery` · `job-to-be-done` · `evolutionary-principles` · `opportunity-mapping` · `multi-method-market-analysis` | 5 |
+| ⚙️ **product workflow** | pipeline stages | `shape-up` · `plan-critique` · `interface-brainstorm` · `tech-planning` · `testing-ai-code` · `testing-execution` · `scope-executor` | 7 |
+| 📘 **product tactics** | on-demand reference | `ads` · `pricing` · `promotions` · `trust-building` · `health` · `marketplace-playbook` · `business-models` · `open-source` | 8 |
+| | | **total** | **20** |
+
+*(+1 orchestrator skill = 21)*
 
 ```
-                   ┌─────────────────────────────────┐
-                   │     product-discovery (5)        │
-                   │  discovery · jtbd · evolutionary │
-                   │  opportunity · market-analysis   │
-                   └────────┬────────────────────────┘
-                            ↓
-                   ┌────────────────┐
-                   │  shape-up (1)  │
-                   └───────┬────────┘
-                           ↓
-            ┌──────────────────────────┐
-            │    plan-critique (1)     │  ← auto pre-flight
-            └────────────┬─────────────┘
-                         ↓
-                  ╔══════════════╗
-                  ║ plannotator  ║  ← visual gate (never skips)
-                  ╚══════════════╝
-                         ↓
-            ┌──────────────────────────┐      ┌───────────────────────────────┐
-            │ interface-brainstorm (1) │ ──→  │ domain playbooks (8)          │
-            │  5 proposals + hybrid    │      │ ads · pricing · promotions    │
-            └────────────┬─────────────┘      │ trust · health · marketplace  │
-                         ↓                    │ business-models · open-source │
-                  ╔══════════════╗             └───────────────┬───────────────┘
-                  ║ plannotator  ║                              │ (tactical ref)
-                  ╚══════════════╝                              │
-                         ↓                                     ↓
-                   ┌────────────┐
-                   │ selection  │
-                   └─────┬──────┘
-                         ↓
-            ┌─────────────────────────┐
-            │    tech-planning (1)    │
-            │  typed scopes + test-*  │
-            └────────────┬────────────┘
-                         ↓
-            ┌─────────────────────────┐
-            │ testing-strategy (2)    │
-            │ ai-code · test-exec     │
-            └────────────┬────────────┘
-                         ↓
-            ┌─────────────────────────┐
-            │  scope-executor (1)     │  ← autonomous execution
-            └────────────┬────────────┘
-                         ↓
-                   audit (auto)
+strategies ──→  workflow ──→  tactics (on-demand)
+                    ↓
+              ┌──────────────┐
+              │  shape-up    │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │  critique    │ ← auto pre-flight
+              └──────┬───────┘
+                     ↓
+               ╔═════════════╗
+               ║ plannotator ║ ← visual gate (never skips)
+               ╚═════════════╝
+                     ↓
+              ┌──────────────┐
+              │ interface    │ ──→ tactics
+              └──────┬───────┘
+                     ↓
+               ╔═════════════╗
+               ║ plannotator ║
+               ╚═════════════╝
+                     ↓
+              ┌──────────────┐
+              │ tech-plan    │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │ execution    │ ← autonomous
+              └──────┬───────┘
+                     ↓
+                 audit
 ```
-
-| stage | skills | count |
-|-------|--------|:-----:|
-| 🔍 product discovery | `product-discovery` · `job-to-be-done` · `evolutionary-principles` · `opportunity-mapping` · `multi-method-market-analysis` | 5 |
-| 🏗️ shape up | `product-shape-up` | 1 |
-| 🔎 plan critique | `product-plan-critique` | 1 |
-| 🎨 interface brainstorming | `product-interface-brainstorm` | 1 |
-| ⚙️ tech planning | `product-tech-planning` | 1 |
-| 🧪 testing strategy | `product-testing-ai-code` · `product-testing-execution` | 2 |
-| 🤖 scope execution | `product-scope-executor` | 1 |
-| 📘 domain playbooks | `product-ads` · `product-pricing` · `product-promotions` · `product-trust-building` · `product-health` · `product-marketplace-playbook` · `product-business-models` · `product-open-source` | 8 |
-| | **total** | **21** |
 
 #### other key skills
 
@@ -158,7 +140,12 @@ other places:
 ### 📊 github activity
 
 ```
-repos:   74 public repositories
+repos: 74 public repositories
+most with exactly 0 stars.
+a monument to my ability to start things.
+digital gardening, not a storefront.
+if you wander in and find something useful — it's yours.
+
 created: 2012
 focus:   product strategy · ai agents · jtbd · organizational design
 ```
