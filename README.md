@@ -31,60 +31,30 @@ i create specialized ai agent skills for product discovery, team facilitation, a
 
 #### featured: `cali-product-workflow`
 
-orchestrates **21 skills** organized into 3 layers:
+`cali-product-workflow` is the orchestrator. it coordinates **20 sub-skills** organized into 3 supporting layers:
 
 | layer | role | skills | count |
 |-------|------|--------|:-----:|
+| 🎛️ **orchestrator** | pipeline coordinator | `cali-product-workflow` | 1 |
 | 🧠 **product strategies** | upfront exploration | `product-discovery` · `job-to-be-done` · `evolutionary-principles` · `opportunity-mapping` · `multi-method-market-analysis` | 5 |
-| ⚙️ **product workflow** | pipeline stages | `shape-up` · `plan-critique` · `interface-brainstorm` · `tech-planning` · `testing-ai-code` · `testing-execution` · `scope-executor` | 7 |
+| ⚙️ **workflow stages** | pipeline steps | `shape-up` · `plan-critique` · `interface-brainstorm` · `tech-planning` · `testing-ai-code` · `testing-execution` · `scope-executor` | 7 |
 | 📘 **product tactics** | on-demand reference | `ads` · `pricing` · `promotions` · `trust-building` · `health` · `marketplace-playbook` · `business-models` · `open-source` | 8 |
-| | | **total** | **20** |
-
-*(+1 orchestrator skill = 21)*
-
-```
-strategies ──→  workflow ──→  tactics (on-demand)
-                    ↓
-              ┌──────────────┐
-              │  shape-up    │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │  critique    │ ← auto pre-flight
-              └──────┬───────┘
-                     ↓
-               ╔═════════════╗
-               ║ plannotator ║ ← visual gate (never skips)
-               ╚═════════════╝
-                     ↓
-              ┌──────────────┐
-              │ interface    │ ──→ tactics
-              └──────┬───────┘
-                     ↓
-               ╔═════════════╗
-               ║ plannotator ║
-               ╚═════════════╝
-                     ↓
-              ┌──────────────┐
-              │ tech-plan    │
-              └──────┬───────┘
-                     ↓
-              ┌──────────────┐
-              │ execution    │ ← autonomous
-              └──────┬───────┘
-                     ↓
-                 audit
-```
+| | | **total** | **21** |
 
 #### other key skills
 
 | skill | domain | description |
 |-------|--------|-------------|
-| `cali-go-stack` | 💻 coding | go web apps with datastar, templ, daisyui, nats |
-| `cali-starhtml` | 💻 coding | python-first reactive web apps over datastar |
+| `cali-agents-md-generator` | 📝 workflow | generate / maintain project AGENTS.md |
+| `cali-agents-md-validator` | 📝 workflow | validate AGENTS.md against best practices |
+| `cali-deploy-github-tailscale` | 🚀 ops | deploy to private servers via tailscale |
+| `cali-github-releases` | 🚀 ops | github release automation |
+| `cali-go-standards` | 💻 coding | go project conventions and best practices |
+| `cali-post-execution-check` | ✅ workflow | post-implementation verification & gap analysis |
 | `cali-questions-quality` | 🎙️ research | evaluate interview scripts & qualitative research |
-| `plannotator-visual-explainer` | 📊 workflow | self-contained html visualizations |
-| `creating-pi-extensions` | 🧩 coding | custom slash commands & overlays for pi agent |
+| `cali-server-security` | 🔒 ops | server security audit and hardening |
+| `cali-skill-validator` | 📝 workflow | validate agent skills against best practices |
+| `skill-creator` | 📝 workflow | create, modify, and evaluate agent skills |
 | [and more](https://github.com/renatocaliari?tab=repositories&q=skill) | … | … |
 
 **pipeline:** [pi agent](https://github.com/renatocaliari/agent-sync-public) + custom skills → production-ready code
