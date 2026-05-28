@@ -90,7 +90,7 @@ i create specialized ai agent skills for product discovery, team facilitation, a
 
 > **[pi.dev](https://pi.dev/)** + **[custom skills](https://github.com/renatocaliari#featured-cali-product-workflow)**
 >
-> I set the stage upstream — questions, critiques, planning convos, detailed scopes. Then the AI runs inside the fences. I still sneak in when something feels off. The result is better than what I could build alone or with a team.
+> I set the stage upstream — questions, critiques, planning convos, detailed scopes. Then the AI runs inside the fences. I still sneak in when something feels off. The results surprise me more often than not.
 
 ---
 
