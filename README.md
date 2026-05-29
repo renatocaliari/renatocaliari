@@ -13,7 +13,7 @@
 
 | | |
 |---|---|
-| 🧪 [what i do](#what-i-do) | ⚡ [ai agent skills](#-ai-agent-skills--54-and-counting) |
+| 🧪 [what i do](#what-i-do) | ⚡ [ai agent skills](#-ai-agent-skills--30-and-counting) |
 | 🛠️ [what i build with](#️-what-i-build-with-lately) | 📦 [pinned projects](#-pinned-projects) |
 | 📖 [free e-books](#-free-e-books-brazilian-portuguese) | 📝 [writing & thinking](#-writing--thinking) |
 | 🔭 [explorations](#-current-explorations) | |
@@ -38,7 +38,7 @@ the `cali-product-workflow` skills come from years inside real teams — consult
 
  #### ai agents & skills
  
- 🤖 50+ open skills for product discovery, coding, qualitative research, and workflow automation. an agent ecosystem.
+ 🤖 30+ open skills for product discovery, coding, qualitative research, and workflow automation. an agent ecosystem.
  → [github.com/renatocaliari/agent-sync-public](https://github.com/renatocaliari/agent-sync-public)
  
  #### culture & organizational design
@@ -54,7 +54,7 @@ currently building tool for simulated conversation system with ai supervision fo
 
 ---
 
-### ⚡ ai agent skills — 54 and counting
+### ⚡ ai agent skills — 30+ and counting
 
 i create specialized ai agent skills for product discovery, qualitative research, and coding workflows. these are prompt-based tools that help agents execute specific tasks with precision.
 
