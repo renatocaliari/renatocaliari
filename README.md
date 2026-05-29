@@ -11,7 +11,7 @@
 
 **📋 sections**
 
-|---|---|
+| | |
 | 🧪 [what i do](#what-i-do) | ⚡ [ai agent skills](#-ai-agent-skills) |
 | 🛠️ [what i build with](#️-what-i-build-with-lately) | 📦 [pinned projects](#-pinned-projects) |
 | 📖 [free e-books](#-free-e-books-brazilian-portuguese) | 📝 [writing & thinking](#-writing--thinking) |
