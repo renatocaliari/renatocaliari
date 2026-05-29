@@ -83,7 +83,7 @@ i create specialized ai agent skills for product discovery, qualitative research
 | [`cali-go-stack`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-go-stack/) | 💻 coding | go web app conventions — datastar, templ, chi, sqlite |
 | [`cali-go-standards`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-go-standards/) | 💻 coding | go project conventions and best practices |
 | [`cali-package-audit`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-package-audit/) | 🔒 ops | supply chain security audit — socket.dev, trivy, osv-scanner, dotenvx |
-| [`cali-post-execution-check`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-post-execution-check/) | ✅ workflow | post-implementation verification & gap analysis |
+| [`cali-post-execution-check`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-post-execution-check/) | 📝 workflow | post-implementation verification & gap analysis |
 | [`cali-questions-quality`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-questions-quality/) | 🎙️ research | evaluate interview scripts & qualitative research |
 | [`cali-server-security`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-server-security/) | 🔒 ops | server security audit and hardening |
 | [`cali-skill-validator`](https://github.com/renatocaliari/agent-sync-public/tree/main/skills/local/cali-skill-validator/) | 📝 workflow | validate agent skills against best practices |
