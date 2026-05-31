@@ -60,15 +60,16 @@ i create specialized ai agent skills for product discovery, qualitative research
 
 #### featured: [`cali-product-workflow`](https://github.com/renatocaliari/cali-product-workflow)
 
-`cali-product-workflow` is the orchestrator. it coordinates **20 sub-skills** organized into 3 supporting layers:
+`cali-product-workflow` is the orchestrator. it coordinates **24 sub-skills** organized into 5 supporting layers:
 
 | layer | role | skills | count |
 |-------|------|--------|:-----:|
 | 🎛️ **orchestrator** | pipeline coordinator | `cali-product-workflow` | 1 |
 | 🧠 **product strategies** | upfront exploration | `product-discovery` · `job-to-be-done` · `evolutionary-principles` · `opportunity-mapping` · `multi-method-market-analysis` | 5 |
-| ⚙️ **workflow stages** | pipeline steps | `shape-up` · `plan-critique` · `interface-brainstorm` · `tech-planning` · `testing-ai-code` · `testing-execution` · `scope-executor` | 7 |
+| ⚙️ **workflow stages** | pipeline steps | `shape-up` · `plan-critique` · `codebase-critique` · `ux-critique` · `interface-alternatives` · `tech-planning` · `testing-ai-code` · `testing-execution` · `scope-executor` · `execution-critique` | 10 |
 | 📘 **product tactics** | on-demand reference | `ads` · `pricing` · `promotions` · `trust-building` · `health` · `marketplace-playbook` · `business-models` · `open-source` | 8 |
-| | | **total** | **21** |
+| 🔧 **cross-cutting** | shared conventions | `code-standards` | 1 |
+| | | **total** | **25** |
 
 #### other key skills
 
